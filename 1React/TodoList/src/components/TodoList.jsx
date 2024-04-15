@@ -1,4 +1,6 @@
-// Implement a React component called TodoList that renders a list of todo items. Each todo item should have a checkbox and a label. Clicking the checkbox should mark the item as completed.
+// Implement a React component called TodoList that renders a list of todo items.
+//  Each todo item should have a checkbox and a label. Clicking the checkbox should
+//  mark the item as completed.
 
 import React, { useState } from 'react'
 
